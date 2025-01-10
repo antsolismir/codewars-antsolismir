@@ -1,2 +1,2 @@
 # codewars-antsolismir
-Codewars katas' code repository
+Codewars kata code repository.
